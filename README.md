@@ -1,6 +1,6 @@
 
 <div>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:92FE9D&height=100&section=header&text=Hi,%20I'm%20interested%20in%20Front-end%20and%20Infra&fontSize=36&fontColor=FFFFFF" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:92FE9D&height=100&section=header&text=Hi,%20I'm%20interested%20in%20Front-end%20and%20Cloud&fontSize=36&fontColor=FFFFFF" />
   <section>
   <h3>🔧 Tech Stacks</h3>
   <div>
