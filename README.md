@@ -10,7 +10,7 @@
   </div>
   <div>
     <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
     <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white"/>
     <img src="https://img.shields.io/badge/react--hook--form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white"/>
     <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white">
@@ -24,8 +24,15 @@
   <br />
   <section>
     <div>
-      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wonza85"/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonza-hub&layout=compact"/>
+      <div>  
+        <img src="https://velog-github-badge.vercel.app/badge/one1_programmer"/>
+      </div>
+      <div>
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wonza85"/>
+      </div>
+      <div>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonza-hub&layout=compact"/>
+      </div>
     </div>
   </section>
 </div>
