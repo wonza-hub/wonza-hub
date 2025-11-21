@@ -28,8 +28,8 @@ Chungbuk National University, Computer Science
 
 #### Posts & Baekjoon
 <p align='center'>
-  <img src="https://velog-github-badge.vercel.app/badge/one1_programmer" style="width: 32%;" />
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wonza85" style="width: 33%;" />
+  <img src="https://velog-github-badge.vercel.app/badge/one1_programmer" style="width: 35%;" />
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wonza85" style="width: 36%;" />
 </p>
 
 #### Certificates
