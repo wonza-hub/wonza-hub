@@ -26,6 +26,17 @@ Chungbuk National University, Computer Science
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="24px"/>
 </div>
 
+#### Project
+| 프로젝트명 | 주제 | 유형 | 기간 | 링크 |
+|---|---|---|---|---|
+| CBNU-MoaBoa | 교내 공지사항 통합 플랫폼 | 개인 | 25.04 ~ 진행중 | [🔗](https://github.com/wonza-hub/cbnu-moaboa) |
+| wangnOOni | 인공지능 기반 운전자 행위 감지 | 팀 | 24.04 ~ 24.11 | [🔗](https://github.com/wonza-hub/wangnOOni-client) |
+| NestNet | 학술 동아리 홈페이지 | 팀 | 23.07 ~ 24.02 | [🔗](https://github.com/wonza-hub/Client) |
+| Vuisiness | 상권 공공 빅데이터 활용 통계 시각화 | 팀 | 24.04 ~ 24.06 | [🔗](https://github.com/wonza-hub/vuisiness) |
+| AWS 동적 자원 관리 | 클라우드 컴퓨팅 교과목 프로젝트 | 개인 | 24.11 ~ 24.12 | [🔗](https://github.com/wonza-hub/aws-dynamic-resource-management-program) |
+| CluBNU | 교내 중앙 동아리 플랫폼 (중단) | 팀 | 25.04 ~ - | [🔗](https://github.com/wonza-hub/CluBNU-client) |
+
+
 #### Posts & Baekjoon
 <p align='center'>
   <img src="https://velog-github-badge.vercel.app/badge/one1_programmer" style="width: 35%;" />
@@ -34,3 +45,5 @@ Chungbuk National University, Computer Science
 
 #### Certificates
 정보처리기사, AWS-SAA, 리눅스마스터2급, SQLD, ADsP, TOPCIT 4수준
+
+Now, I'm studying... 👇
