@@ -44,6 +44,6 @@ Chungbuk National University, Computer Science
 </p>
 
 #### Certificates
-정보처리기사, AWS-SAA, 리눅스마스터2급, SQLD, ADsP, TOPCIT 4수준
+정보처리기사, AWS-SAA(801점), 리눅스마스터2급, SQLD, ADsP, TOPCIT 4수준(677점)
 
 Now, I'm studying... 👇
