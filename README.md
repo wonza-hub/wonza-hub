@@ -29,6 +29,8 @@ Chungbuk National University, Computer Science
 #### Project
 | 프로젝트명 | 주제 | 유형 | 기간 | 링크 |
 |---|---|---|---|---|
+| SIGKILL | 실시간 개발자 퀴즈 게임 | 팀 | 26.01 ~ 진행중 | [🔗](https://github.com/Team-GuLab/sigkill) |
+| DevTime | 개발자 개발 시간 관리 플랫폼 | 개인 | 26.02 ~ 진행중 | [🔗](https://github.com/wonza-hub/dev-time) |
 | CBNU-MoaBoa | 교내 공지사항 통합 플랫폼 | 개인 | 25.04 ~ 진행중 | [🔗](https://github.com/wonza-hub/cbnu-moaboa) |
 | wangnOOni | 인공지능 기반 운전자 행위 감지 | 팀 | 24.04 ~ 24.11 | [🔗](https://github.com/wonza-hub/wangnOOni-client) |
 | NestNet | 학술 동아리 홈페이지 | 팀 | 23.07 ~ 24.02 | [🔗](https://github.com/wonza-hub/Client) |
