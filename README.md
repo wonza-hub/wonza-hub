@@ -1,4 +1,4 @@
-## Web Frontend Engineer
+https://github.com/mswjs/mswjs.io/pull/518## Web Frontend Engineer
 Chungbuk National University, Computer Science
 
 #### Tech Stacks
@@ -41,9 +41,14 @@ Chungbuk National University, Computer Science
 
 #### Posts & Baekjoon
 <p align='center'>
-  <img src="https://velog-github-badge.vercel.app/badge/one1_programmer" style="width: 40%;" />
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wonza85" style="width: 41%;" />
+  <img src="https://velog-github-badge.vercel.app/badge/one1_programmer" style="width: 45%;" />
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wonza85" style="width: 46%;" />
 </p>
+
+#### Opensource
+
+- [React 공식 문서(한글) 번역 및 오타 수정](https://github.com/reactjs/ko.react.dev/issues?q=state%3Aclosed%20is%3Apr%20author%3Awonza-hub)
+- [MSW 공식 문서 오타 수정](https://github.com/mswjs/mswjs.io/pull/518)
 
 #### Certificates
 정보처리기사, AWS-SAA(801점), 리눅스마스터2급, SQLD, ADsP, TOPCIT 4수준(677점)
