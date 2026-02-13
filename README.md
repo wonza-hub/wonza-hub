@@ -1,4 +1,4 @@
-https://github.com/mswjs/mswjs.io/pull/518## Web Frontend Engineer
+Web Frontend Engineer
 Chungbuk National University, Computer Science
 
 #### Tech Stacks
