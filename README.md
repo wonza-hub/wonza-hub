@@ -1,5 +1,7 @@
-Web Frontend Engineer
-Chungbuk National University, Computer Science
+### Web Frontend Engineer
+
+#### Education
+_Bachelor of Computer Science, Chungbuk National University in 2025 (GPA: 3.99/4.50)_
 
 #### Tech Stacks
 ###### Language
